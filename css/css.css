@@ -1,0 +1,111 @@
+*{
+  padding: 0px;
+  margin: 0 auto;
+  border: 0px;
+  font-family: 'Varela Round', sans-serif;
+  width: 100%;
+  text-align: center;
+}
+
+button{
+  background: #035DE8;
+  color: #C0C1C2;
+  width: 90%;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+h1{
+  background: #035DE8;
+  color: #C0C1C2;
+  padding: 5px;
+}
+h1:hover{
+  color: white;
+}
+img{
+  width: 30px;
+  height: 30px;
+  margin: 10px;
+}
+
+
+.contenedor-btn-añadir{
+  background: #136FFE;
+  height: 100px;
+  width: 20%;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.contenedor-btn-añadir-segundo{
+  background: #136FFE;
+  width: 20%;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.contenedor-btn-añadir-segundo-plomo{
+  background: #E8E8E6;
+  width: 80%;
+  margin: 0 auto;
+  border-radius: 5px;
+
+}
+
+.contenedorinput{
+  background: #136FFE;
+  height: 150px;
+  width: 30%;
+  margin: 10px;
+  border-radius: 5px;
+
+}
+#texto{
+  background: #B9B8B7;
+  margin: 10px;
+  padding: 10px;
+  width: 70%;
+  border-radius:5px;
+}
+
+#btnGuardar{
+  background: #05BD50;
+  color: white;
+  width: 60%;
+  border-radius: 10px;
+}
+
+#btnx{
+  background: transparent; ;
+  color: #C0C1C2;
+  width: 10%;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+#listaTarea{
+  list-style: none;
+}
+
+#divcontenedor{
+  background: #136FFE;
+   display: inline-block;
+  width: 20%;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+#divtarjetas{
+  background: #E8E8E6;
+  width: 80%;
+  margin: 20px 20px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#contenedormaster{
+  display: inline-block;
+
+}
