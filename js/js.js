@@ -39,7 +39,7 @@
          divcontenedor.appendChild(inputText);
 
       var btn = document.createElement("button");//creando el boton guardar
-      var t = document.createTextNode("Añadir Tarjeta");//es lo que me aparecera en el buton escrito Guardar
+      var t = document.createTextNode("Guardar");//es lo que me aparecera en el buton escrito Guardar
         btn.setAttribute("id","btnGuardar");
         btn.appendChild(t);
         divcontenedor.appendChild(btn);
